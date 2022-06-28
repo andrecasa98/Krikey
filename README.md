@@ -1,3 +1,3 @@
 # Krikey Challenge
 
-Sample code of simple data operations.
+Code of simple data operations (provided in the master branch).
